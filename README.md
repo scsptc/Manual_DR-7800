@@ -7,4 +7,4 @@
 
 You have been warned! ;-)
 
-[Go to the manual](Manual_DR-7800.md)
+[Go to the manual](Manual%20DR-7800.md)
